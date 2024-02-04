@@ -19,7 +19,7 @@ $(document).ready(function() {
     });
     btn_no.click(function(){
       document.getElementById("no").disabled = true;
-      alert('This is not a option, sweetheart 🙂');
+      alert('This is not an option, sweetheart 🙂');
     });
   
     function open() {
