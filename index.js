@@ -15,7 +15,7 @@ $(document).ready(function() {
         close();
     });
     btn_yes.click(function(){
-      window.open("https://www.w3schools.com");
+      window.open("https://ziksnziki.github.io/guess-what-/");
     });
     btn_no.click(function(){
       document.getElementById("no").disabled = true;
